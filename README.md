@@ -65,7 +65,7 @@ The result of the function call is stored in the result variable.
 
 Printing the result:
 Finally, the code prints the result of the password strength check using the print function.
-That's it! The code takes a user's input for a password, checks its strength according to certain requirements (minimum length, presence of digits, uppercase and lowercase letters, and special characters), and provides feedback on whether the password meets the criteria or not.
+The code takes a user's input for a password, checks its strength according to certain requirements (minimum length, presence of digits, uppercase and lowercase letters, and special characters), and provides feedback on whether the password meets the criteria or not.
 
 
 
