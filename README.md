@@ -6,6 +6,7 @@ This is how you can code a password checker using python :)
 Importing the necessary modules:
 The code begins by importing the re module, which provides support for regular expressions in Python.
 
+<img width="1005" alt="Screenshot 2023-07-03 at 2 44 40 AM" src="https://github.com/dormorr993310/Python-password-checker/assets/138055368/6bf5e4b2-52e4-4201-9377-8cf7e3331e14">
 
 
 
