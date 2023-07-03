@@ -16,7 +16,7 @@ It uses a series of if and elif statements to check various conditions.
 If the password fails any of the conditions, it returns a corresponding error message.
 If the password meets all the requirements, it returns a message indicating that the password is strong.
 
-
+<img width="1009" alt="Screenshot 2023-07-03 at 2 45 09 AM" src="https://github.com/dormorr993310/Python-password-checker/assets/138055368/9acba10b-ba4f-4970-95fa-dbfd6c2a443f">
 
 
 Example usage:
