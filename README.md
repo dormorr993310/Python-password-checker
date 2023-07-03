@@ -31,3 +31,8 @@ The result of the function call is stored in the result variable.
 Printing the result:
 Finally, the code prints the result of the password strength check using the print function.
 That's it! The code takes a user's input for a password, checks its strength according to certain requirements (minimum length, presence of digits, uppercase and lowercase letters, and special characters), and provides feedback on whether the password meets the criteria or not.
+
+
+
+
+<img width="1019" alt="Screenshot 2023-07-03 at 2 45 54 AM" src="https://github.com/dormorr993310/Python-password-checker/assets/138055368/48e2248d-9660-4f1f-b817-e5c83b3487fc">
