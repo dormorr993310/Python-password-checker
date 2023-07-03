@@ -24,6 +24,7 @@ The code prompts the user to enter a password using the input function and store
 It then calls the check_password_strength function, passing the user's password as an argument.
 The result of the function call is stored in the result variable.
 
+<img width="1009" alt="Screenshot 2023-07-03 at 2 45 42 AM" src="https://github.com/dormorr993310/Python-password-checker/assets/138055368/ecfacdf5-3d4c-47aa-8b72-e1be604e085e">
 
 
 
